@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Thiranex Data Science Internship Portfolio
 
 <p align="center">
