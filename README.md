@@ -368,15 +368,15 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-## Jasvanth Senthilkumar
+## Jasvanth S
 
 **B.Tech – Artificial Intelligence & Data Science**
 
 Passionate about Data Science, Machine Learning, Artificial Intelligence, Data Analytics, and building intelligent solutions that solve real-world problems.
 
-* 🌐 GitHub: https://github.com/yourusername
-* 💼 LinkedIn: https://linkedin.com/in/yourusername
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 GitHub: https://github.com/jasvanth-s
+* 💼 LinkedIn: https://linkedin.com/in/s-jasvanth
+* 📧 Email: [jasvanth1010@gmail.com](mailto:jasvanth1010@gmail.com)
 
 ---
 
